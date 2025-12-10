@@ -1,4 +1,4 @@
-# vignette-car-vision
+# Vignette-Car-Vision
 
 Vignette on identifying objects such as pedestrians, traffic lights, and other road-side objects using computer vision. This was a project for PSTAT197A.
 
@@ -18,5 +18,6 @@ Computer Vision: Algorithms and Applications, 2nd Edition: https://szeliski.org/
 
 Computer Vision, From 3D Perception to 3D Reconstruction and Beyond: D. A. Forsyth and J. Ponce. Computer Vision: A Modern Approach (2nd Edition). Prentice Hall, 2011.
 
-Dataset - https://public.roboflow.com/object-detection/self-driving-car
+## Dataset - Udacity Self-Driving Car on Roboflow
+https://public.roboflow.com/object-detection/self-driving-car
 
