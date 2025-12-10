@@ -2,6 +2,10 @@
 
 Vignette on identifying objects such as pedestrians, traffic lights, and other road-side objects using computer vision. This was a project for PSTAT197A.
 
+## Contributors
+
+Sanil Katula, Bahaar Ahuja, Shenyi Jiang, & Calder Glass
+
 ## Abstract
 Self-driving cars need to be able to identify common entities on or alongside the road. The
 dataset "Udacity Self-Driving Car" on Roboflow provided 15000 images of pedestrians,
