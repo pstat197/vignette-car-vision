@@ -15,6 +15,13 @@ the different potential roadside objects under 11 labels and assigns a probabili
 ## Repository Contents
 The drafts folder contains the rough draft of the Jupyter Notebook used for the project. The data folder contains the general structure of the dataset when it's downloaded manually from Roboflow. The images and labels were not included because they would exceed GitHub's file limit. The scripts folder contains the final script/final draft of the Jupyter Notebook of our code.
 
+## How to replicate computer vision on a different dataset
+1.   Clone the YOLOv7 repository
+2.   Load Pretrained Model
+3.   Download Dataset
+4.   Split test/train
+5.   Sample Labeling on a image
+
 ## References for Further Learning
 Learning Open CV 4 Computer Vision with Python 3: https://books.google.com/books/about/Learning_OpenCV_4_Computer_Vision_with_P.html?id=ef_RDwAAQBAJ&source=kp_book_description
 
