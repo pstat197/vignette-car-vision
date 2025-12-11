@@ -22,16 +22,16 @@ The YOLOv7 model was chosen as it's better at precision of small objects such as
   * `export/`
     * `images/` - Contains the images of road-side objects that the model is trained on.
     * `labels/` - Contains the labels for each given image, where the integer is represents the given classification of an object in that image.
-  * `README.dataset.txt` -
-  * `README.roboflow.txt` -
-  * `data.yaml`
+  * `README.dataset.txt` - Gives a brief overview of the dataset and its differences from the original version on GitHub.
+  * `README.roboflow.txt` - Mentions that the dataset was exported from Roboflow, the number of images in the dataset, and the preprocessing applied to the images.
+  * `data.yaml` - Denotes that training and validation subfolders of the images folder and the 11 classes of objects that can appear in the images.
 
 * `draft/` - Contains the rough draft of the Jupyter Notebook used for the project.
-  * `197_car_vision.html`
   * `197_car_vision.ipynb` - Rough draft of the Jupyter Notebook of the vignette.
   * `Jupyter Notebook -- generated with runcell.pdf` - Pdf render of the rough draft of the vignette.
 
 * `scripts/` - Contains the final script/final draft of the Jupyter Notebook of our code.
+  * `197_car_vision_notebook_final_annotations.ipynb` - Final draft/script with some line annotations of the Jupyter Notebook used for the vignette.
 
 
 ## How to replicate computer vision on a different dataset
