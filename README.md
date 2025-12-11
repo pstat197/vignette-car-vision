@@ -13,7 +13,22 @@ cars, traffic lights, bikers, etc and labels containing the coordinates for thos
 the different potential roadside objects under 11 labels and assigns a probability that the object is of that given label.
 
 ## Repository Contents
-The drafts folder contains the rough draft of the Jupyter Notebook used for the project. The data folder contains the general structure of the dataset when it's downloaded manually from Roboflow. The images and labels were not included because they would exceed GitHub's file limit. The scripts folder contains the final script/final draft of the Jupyter Notebook of our code.
+
+* `data/` - Contains the general structure of the dataset when it's downloaded manually from Roboflow. The images and labels were not included because they would exceed GitHub's file limit.
+  * `export/`
+    * `images/` - Contains the images of road-side objects that the model is trained on.
+    * `labels/` - Contains the labels for each given image, where the integer is represents the given classification of an object in that image.
+  * `README.dataset.tx` -
+  * `README.roboflow.txt` -
+  * `data.yaml`
+
+* `draft/` - Contains the rough draft of the Jupyter Notebook used for the project.
+  * `197_car_vision.html`
+  * `197_car_vision.ipynb`
+  * `Jupyter Notebook -- generated with runcell.pdf`
+
+* `scripts/` - Contains the final script/final draft of the Jupyter Notebook of our code.
+
 
 ## How to replicate computer vision on a different dataset
 1.   Clone the YOLOv7 repository
