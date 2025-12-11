@@ -32,6 +32,7 @@ The YOLOv7 model was chosen as it's better at precision of small objects such as
 
 * `scripts/` - Contains the final script/final draft of the Jupyter Notebook of our code.
   * `197_car_vision_notebook_final_annotations.ipynb` - Final draft/script with some line annotations of the Jupyter Notebook used for the vignette.
+  * `197_car_vision_final.pdf` - Pdf form of the final draft of the vignette.
 
 
 ## How to replicate computer vision on a different dataset
