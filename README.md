@@ -19,7 +19,7 @@ The YOLOv7 model was chosen as it's better at precision of small objects such as
 ## Repository Contents
 
 * `data/` - Contains the general structure of the dataset when it's downloaded manually from Roboflow. The images and labels were not included because they would exceed GitHub's file limit.
-  * `export/`
+  * `export/` - Replicates the file structure that is used to path the images for training, validation, and testing.
     * `images/` - Contains the images of road-side objects that the model is trained on.
     * `labels/` - Contains the labels for each given image, where the integer is represents the given classification of an object in that image.
   * `README.dataset.txt` - Gives a brief overview of the dataset and its differences from the original version on GitHub.
